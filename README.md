@@ -1,6 +1,7 @@
 # Página RB Battles
 Criei uma pagina fictícia, inspirada no RB battles! 
 Este foi um dos meus trabalhos acadêmicos.
+
 Porém não está pronta, ainda é preciso consertar algumas coisas.
 
 Aparência da tela inicial:
